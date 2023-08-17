@@ -1,0 +1,55 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.login{
+    width: 295px;
+    margin: 90px auto;
+    text-align: center;
+    padding: 40px 40px;
+}
+.logo{
+    height: 50px;
+}
+.greeting{
+    font-weight: bold;
+}
+.login input{
+    padding: 12px 14px;
+    margin-bottom: 15px;
+    width:230px;
+    border: 1px solid gray;
+    border-radius: 14px;
+    font-weight: 500;
+}
+.login-btn{
+    padding: 13px 14px;
+    border-radius: 25px;
+    color: white;
+    background-color: black;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+    width: 180px;
+}
+.not-a-member{
+    font-size: 15px;
+    color: gray;
+}
+.not-a-member a{
+    color: black;
+    font-weight: 400;
+}
+.forgot-password{
+    color: black;
+    font-weight: 400;
+    font-size: 14px;
+    padding: 10px 0;
+}
+.terms-and-conditions{
+    font-size: 14px;
+    color: gray;
+    padding: 30px 0;
+}
+.terms-and-conditions a{
+    color: black;
+}
